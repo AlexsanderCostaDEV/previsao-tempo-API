@@ -23,7 +23,7 @@ body {
     padding: 20px;
     width: 95%;
     max-width: 450px;
-    /* max-with é excelente para responsividade */
+    /* max-width é excelente para responsividade */
 }
 .main-top {
     display: flex;

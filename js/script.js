@@ -20,13 +20,5 @@ function putOnScreen(dados) {
     document.querySelector(".humidity").innerHTML = "Umidade: " + dados.main.humidity + "%";
 }
 
-// input2.addEventListener("keyup", function(event) {
-//     const input2 = document.querySelector('.input-city');
-//     if (event.keyCode === 13) {
-//         const valorInput = input;
-//         alert("Valor do Input:", valorInput);
-//     }
-// });
-
 // Math.floor: arredonda
 // async e await: utilizando quando manipula-se APIs
